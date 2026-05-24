@@ -1,6 +1,8 @@
-<h2 align="left">Hi 👋, I'm <b>uma maheshwari</b></h2>
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=180&section=header&text=Uma%20Maheshwari&fontSize=48&fontColor=ffffff&animation=twinkling" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" align="center"/>
 
 ### B.Tech CSE Student | AI Enthusiast | Full Stack Developer
 
