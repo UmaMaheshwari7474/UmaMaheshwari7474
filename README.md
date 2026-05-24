@@ -1,10 +1,8 @@
 <div align="center">
 
-<svg width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <image width="100%" xlink:href="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=180&section=header&text=Uma%20Maheshwari&fontSize=48&fontColor=ffffff&animation=twinkling"/>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=180&section=header&text=Uma%20Maheshwari&fontSize=48&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" align="center" alt="Waving hand"/>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" align="center"/>
 
 ### B.Tech CSE Student | AI Enthusiast | Full Stack Developer
 
@@ -14,9 +12,7 @@
 
 <br/>
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="28">
-  <image height="28" xlink:href="https://komarev.com/ghpvc/?username=UmaMaheshwari7474&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
-</svg>
+<img src="https://komarev.com/ghpvc/?username=UmaMaheshwari7474&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
 
 </div>
 
