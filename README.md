@@ -143,10 +143,6 @@ I treat coding platforms as my daily gym — building **consistency**, sharpenin
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=UmaMaheshwari7474&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/UmaMaheshwari7474/UmaMaheshwari7474/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
 ---
 
 ## 💡 Random Dev Quote
