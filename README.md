@@ -93,27 +93,6 @@ I believe great developers are built through **consistent practice**, **real-wor
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmaMaheshwari7474&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmaMaheshwari7474&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmaMaheshwari7474&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UmaMaheshwari7474&theme=onedark&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
