@@ -20,16 +20,12 @@
 
 ## 👋 About Me
 
-Hi, I'm **Uma Maheshwari** — a passionate **B.Tech Computer Science** student who loves turning curiosity into code. I thrive at the intersection of **Artificial Intelligence**, **Data Structures & Algorithms**, and **Full Stack Development**, where logic meets creativity and every problem is an opportunity to grow.
+Hi, I'm **Uma Maheshwari** — a **B.Tech CSE** student passionate about **AI**, **DSA**, and **Full Stack Development**. I enjoy building real-world projects and learning through consistent problem solving.
 
-I believe great developers are built through **consistent practice**, **real-world projects**, and a mindset of **continuous learning**. Whether I'm architecting a backend service, optimizing an algorithm, or experimenting with AI-powered tools, I bring focus, discipline, and enthusiasm to everything I build.
-
-- 🧠 Deeply passionate about **AI** and intelligent application design
-- 📊 Sharpening skills in **DSA** and competitive problem solving every week
-- 🌐 Building **full stack** projects that solve real student and career challenges
-- 🎯 Strong focus on **clean code**, **OOP**, and scalable system thinking
-- 🚀 Currently leveling up in **advanced backend development** with Java
-- 💡 Exploring **AI-powered applications** that make learning and careers smarter
+- 🧠 Exploring **AI** and intelligent applications
+- 📊 Practicing **DSA** regularly on coding platforms
+- 🌐 Building **full stack** projects with clean, scalable code
+- 🚀 Leveling up in **backend development** with Java
 
 ---
 
