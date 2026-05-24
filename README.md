@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=120&section=header&animation=twinkling" width="100%" alt="Header banner"/>
-
-<h1>Uma Maheshwari</h1>
+<a href="https://www.linkedin.com/in/uma-maheshwari-muthyala-46736434b/" target="_blank">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=180&section=header&text=Uma%20Maheshwari&fontSize=48&fontColor=ffffff&animation=twinkling" width="100%" alt="Uma Maheshwari"/>
+</a>
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" align="center" alt="Waving hand"/>
 
