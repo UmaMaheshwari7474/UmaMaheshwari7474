@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://www.linkedin.com/in/uma-maheshwari-muthyala-46736434b/" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=180&section=header&text=Uma%20Maheshwari&fontSize=48&fontColor=ffffff&animation=twinkling" width="100%" alt="Uma Maheshwari"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=120&section=header&animation=twinkling" width="100%" alt=""/>
+
+<h1 align="center">Uma Maheshwari</h1>
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" align="center" alt="Waving hand"/>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=UmaMaheshwari7474&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
+![Profile Views](https://komarev.com/ghpvc/?username=UmaMaheshwari7474&label=Profile%20Views&color=0ea5e9&style=for-the-badge)
 
 </div>
 
