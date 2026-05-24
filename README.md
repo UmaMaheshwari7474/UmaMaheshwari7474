@@ -74,25 +74,6 @@ I believe great developers are built through **consistent practice**, **real-wor
 
 ---
 
-## 🔗 Coding & Social Profiles
-
-<p align="center">
-  <a href="https://github.com/UmaMaheshwari7474" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/uma-maheshwari-muthyala-46736434b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/uma_7474/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/muthyalaumamahe1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
@@ -151,9 +132,6 @@ I treat coding platforms as my daily gym — building **consistency**, sharpenin
   </a>
   <a href="https://www.hackerrank.com/profile/muthyalaumamahe1" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile"/>
-  </a>
-  <a href="https://github.com/UmaMaheshwari7474" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects"/>
   </a>
 </p>
 
